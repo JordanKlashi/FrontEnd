@@ -1,22 +1,22 @@
-import React from 'react';
+
 import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p className='text-red-500'>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
-          className="App-link"
+          className="text-rose-600"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
+          <p className='text-rose-600'></p>
         </a>
       </header>
     </div>

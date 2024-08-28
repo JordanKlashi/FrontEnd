@@ -545,12 +545,12 @@ video {
   --tw-contain-style:  ;
 }
 
-.text-red-500 {
-  --tw-text-opacity: 1;
-  color: rgb(239 68 68 / var(--tw-text-opacity));
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
-.text-rose-600 {
+.text-red-400 {
   --tw-text-opacity: 1;
-  color: rgb(225 29 72 / var(--tw-text-opacity));
+  color: rgb(248 113 113 / var(--tw-text-opacity));
 }

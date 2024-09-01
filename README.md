@@ -1,9 +1,8 @@
 # Setup frontend React App
 
-when you want to start coding, you will need firt to enter : npm run build:css
-then an other terminal : npm start
+when you want to start coding, you will need to enter : npm start
 
-you will get you're react app working with out backend
+you will get your react app working with out backend, prettier, eslint & tailwindcss
 
 # Getting Started with Create React App
 
